@@ -12,7 +12,7 @@ Separate images as light or dark - using luminance and textures
 - Using OpenCV, extract image vectors
 
 ## Dog/Cat classification
-- In the total of 25000 cat and dog images taken from Kaggle, the data is loaded and preprocessed, ready for downstream analysis
+- In the total of 25000 cat and dog images taken from Kaggle, the data is loaded and preprocessed, ready for downstream analysis (source: https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset) - placed in 'datasets' folder
 - Two different models are used: K Nearest Neighbors (KNN) and Logistic Regression for classifying dog or cat
 - The models undergo hyperparameter tuning to find the best results in the test set.
 
